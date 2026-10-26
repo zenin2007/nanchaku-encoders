@@ -5,13 +5,11 @@
 
 ---
 
-## 🌐 Quick Access (Localhost)
+## 🚀 Live Demo & Access
 
-When running locally, access the live application directly in your browser:
-
-- **Primary URL:** [http://localhost:5173/](http://localhost:5173/)
-- **Alternative IP:** [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
-- **Backend API Status Check:** [http://localhost:5173/api/status](http://localhost:5173/api/status)
+- **🌐 Live Production Web App:** [https://nanchaku-encoders.vercel.app/](https://nanchaku-encoders.vercel.app/)
+- **💻 Localhost Development URL:** [http://localhost:5173/](http://localhost:5173/) (or `http://127.0.0.1:5173/`)
+- **🔍 Backend API Status Endpoint:** [http://localhost:5173/api/status](http://localhost:5173/api/status)
 
 ---
 

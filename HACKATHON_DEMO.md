@@ -213,7 +213,5 @@ npm run dev
 ```
 
 ### 5. Access the Platform
-Open your browser and navigate to:
-```
-http://127.0.0.1:5173/
-```
+- **Live Production App:** [https://nanchaku-encoders.vercel.app/](https://nanchaku-encoders.vercel.app/)
+- **Local Dev Server:** `http://localhost:5173/` (or `http://127.0.0.1:5173/`)
